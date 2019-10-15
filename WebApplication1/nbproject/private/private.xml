@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Controle/ContextoImpl.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Dao/DaoEndereco.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/web/WEB-INF/Cadastro.jsp</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Dao/DaoProoduto.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Modelo/Endereco.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Modelo/Produtos.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Modelo/Usuario.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/web/Select.jsp</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Modelo/Pedido.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Modelo/RecuperacaoSenha.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Modelo/Carrinho.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/web/WEB-INF/Login.jsp</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Util/BancoDeDados.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Modelo/StatusPedido.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Controle/Https.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Controle/ListaProduto.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/web/WEB-INF/index.jsp</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Controle/Contexto.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Dao/DaoUsuario.java</file>
+            <file>file:/C:/Users/mateu/Desktop/WebApplication1/src/java/Modelo/Categoria.java</file>
+        </group>
+    </open-files>
+</project-private>
